@@ -1,6 +1,5 @@
 
 # Movie Search & Display
->>>>>>> 85a4645 (properly written Readme)
 
 A modern, responsive movie search and discovery application built with React. Search through thousands of movies, discover trending films, and track your search history with a sleek, user-friendly interface.
 
